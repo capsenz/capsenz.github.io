@@ -1,0 +1,20 @@
+site_name: Carls Blog
+plugins:
+  - blog:
+      blog_dir: .
+      blog_toc: true
+      post_date_format: long
+      archive: false
+      excerpt: optional
+theme:
+  name: material
+markdown_extensions:
+# Python Markdown  
+- attr_list
+- md_in_html
+- meta
+nav:
+  - Home: 'index.md'
+  - About Me: 'about_me.md'
+# plugins:
+#   - blog
