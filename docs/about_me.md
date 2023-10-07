@@ -1,4 +1,4 @@
-# Home
+# About Me
 
 Welcome to my blog!
 
