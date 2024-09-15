@@ -62,4 +62,4 @@ Ultimately, I did not get the investment. In the beginning, I was a bit disappoi
 
 Finally, I would like to thank Lara and everyone else who supported me on this journey and wish all the teams that will have demo day soon a successful launch! 
 
-P.S. If you have any questions about EF, feel free to send me a DM on [LinkedIn](https://www.LinkedIn.com/in/carl-philipp-senze-3250b9139/) or [Twitter](https://x.com/capsenz).
+**P.S. If you have any questions about EF, feel free to send me a DM on [LinkedIn](https://www.LinkedIn.com/in/carl-philipp-senze-3250b9139/) or [Twitter](https://x.com/capsenz).**
