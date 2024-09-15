@@ -7,4 +7,4 @@ I am Carl and I work at [Aleph Alpha](https://app.aleph-alpha.com/). Before that
 
 On this blog I want to share stuff that I learn and find interesting. I hope you will find some joy reading my texts!
 
-![Profile Picture](../assets/8a174ab7-865c-4aca-b72d-7c6b70413201.png)
+![Profile Picture](../assets/profile_pic.png)
